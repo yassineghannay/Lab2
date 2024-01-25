@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Globalization;
 
 
-namespace lab1
+namespace lab2
 {
     
     class Person
